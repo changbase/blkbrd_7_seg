@@ -1,12 +1,9 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: SJSU
-// Engineer: Daron Chang
-// 
+
 // Create Date: 01/28/2020 01:35:44 PM
 // Design Name: Quad Seven Segment Display
 // Module Name: blkbrd_seven_seg
-// Project Name: lab2_chang_daron
+// Project Name: 7s
 // Target Devices: xc7z007s
 // Tool Versions: Vivado 2019.2
 // Description: Program quad 7 seg based on input.
